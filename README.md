@@ -12,4 +12,4 @@ This project explores Chicago Public Schools data using a combination of SQL and
 **📂 Dataset**
 
 Source: https://data.cityofchicago.org/
-Data includes school categories, performance ratings, and other attributes.
+ Data includes school categories, performance ratings, and other attributes.
