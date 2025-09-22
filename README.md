@@ -14,3 +14,16 @@ This project explores Chicago Public Schools data using a combination of SQL and
 Source: https://data.cityofchicago.org/
 
  Data includes school categories, performance ratings, and other attributes.
+
+ **🛠️ Tools & Technologies**
+
+* Python (pandas, matplotlib)
+* SQL (SQLite)
+* Jupyter Notebook
+* ipython-sql extension
+
+**📑 Key Insights**
+
+* Count of Elementary, Middle, and High Schools.
+* Performance rating distributions across schools.
+(More insights are explained inside the notebook.)
