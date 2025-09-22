@@ -26,4 +26,5 @@ Source: https://data.cityofchicago.org/
 
 * Count of Elementary, Middle, and High Schools.
 * Performance rating distributions across schools.
-(More insights are explained inside the notebook.)
+  
+(More insights are explained inside the notebook)
